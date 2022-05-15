@@ -1,17 +1,10 @@
-# cli-google
+# cli-howto
 
 A small project to learn how cli apps work with nodejs.
-This app lets you search things on google by typing it on your terminal, by opening your default browser, going to google and putting in your search text in there.
+This app lets you search things online by typing it on your terminal, by opening your browser, going to an online search engine and putting in your search text in there.
 
 ## Dependencies
 xdg-utils
-```bash
-#Debian/Ubuntu based:
-sudo apt-get install -y xdg-utils
-
-#Arch based:
-sudo pacman -S xdg-utils
-```
 
 ## Installation
 Just copy this command in to your favorite terminal!
@@ -29,4 +22,3 @@ howto --help for more information.
 ```bash
 howto how cold will it be tomorrow?
 ```
-
